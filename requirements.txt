@@ -30,4 +30,4 @@ summarizer==0.0.7
 textblob==0.12.0
 tldextract==2.1.0
 urllib3==1.21.1
-Werkzeug==0.12.2
+Werkzeug==0.15.3
